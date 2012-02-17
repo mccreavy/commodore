@@ -1,6 +1,6 @@
         ; Simple Character-based (non-smooth) Scroller.
 	; Nothing fancy; busy waiting.
-	;
+	; http://mccreavy.com/1415/commodore-64-simple-text-scrolling
 	processor 6502
         org $c000
 
